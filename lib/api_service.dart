@@ -12,9 +12,9 @@ class ApiService {
       var url = Uri.parse(ApiResponse.baseUrl);
       var response = await http.get(url);
       if (response.statusCode == 200) {
-        // final responseData = Storyblok.fromJson(response.body);
-        print(response.body);
-        // storyblok = responseData;
+        final responseData = Storyblok.fromRawJson(response.body);
+        log('$responseData');
+        storyblok = responseData;
       }
     } catch (e) {
       log(e.toString());
