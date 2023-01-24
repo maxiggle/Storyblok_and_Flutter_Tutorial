@@ -1,0 +1,17 @@
+{
+  "_uid": "ff73c01f-c899-427b-b836-41ec0a5433f8",
+  "component": "my projects",
+  "project_headline": "My Flutter projects at Chigisoft",
+  "flutter_project_name": "Getcoins",
+  "flutter_project_image": {
+    "id": "null",
+    "alt": "null",
+    "name": "",
+    "focus": "null",
+    "title": "null",
+    "filename": "",
+    "copyright": "null",
+    "fieldtype": "asset"
+  },
+  "flutter_project_decription": "web3 wallet"
+}

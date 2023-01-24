@@ -1,0 +1,16 @@
+{
+  "_uid": "43f999d2-0e1e-4a5e-a923-2350ab71f549",
+  "Button": [
+    {
+      "_uid": "74d401a4-3d99-494d-a3e4-a3cdda7447e6",
+      "name": "",
+      "component": "feature"
+    }
+  ],
+  "url_text": "chigisoft",
+  "component": "default page",
+  "headline1": "My name is Godwin",
+  "headline2": "I am a Technical writer and Software developer",
+  "headline3": "I build for the web/mobile platform",
+  "my_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non tristique massa. Curabitur nec lectus sit amet magna tincidunt tempor nec ut libero. Curabitur pretium, orci ac aliquam maximus, ex orci ornare nulla, congue faucibus diam felis sed nunc. Fusce vehicula orci nec maximus tempor. Nulla elementum, nisi vitae sollicitudin eleifend, ante nisl elementum enim, vitae ornare ante dui in sem. Phasellus tortor mi, ornare eget elementum sit amet, tempor nec quam. Nam interdum libero sapien, vitae commodo tortor finibus in. Integer semper, metus sed cursus cursus, orci justo euismod dui, vel fermentum orci nisi vel orci. Aenean commodo massa rutrum nisl blandit, vel dapibus orci rhoncus."
+}

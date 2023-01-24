@@ -1,5 +1,8 @@
+import 'dart:developer';
+
 import 'package:flutter/material.dart';
 import 'package:flutterstorybloktutorial/api_service.dart';
+import 'package:flutterstorybloktutorial/storyblok_extensions.dart';
 
 void main() {
   runApp(const MyApp());
@@ -39,7 +42,15 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   getData() async {
-    await apiservice.getData();
+    final value = await apiservice.getData();
+    final contactContent = value?.contactContent;
+    final aboutContent = value?.aboutContent;
+    final experienceContent = value?.experienceContent;
+
+    log('contact content: $contactContent');
+    log('about content: $aboutContent');
+    log('experience content: $experienceContent');
+
     setState(() {});
   }
 

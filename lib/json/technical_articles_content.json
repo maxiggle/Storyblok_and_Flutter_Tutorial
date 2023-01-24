@@ -1,0 +1,23 @@
+{
+  "_uid": "c8ed41c3-7dec-4508-8234-ceb87fc9c73f",
+  "component": "Technical articles",
+  "tools_used": {
+    "id": null,
+    "alt": null,
+    "name": "",
+    "focus": null,
+    "title": null,
+    "filename": "",
+    "copyright": null,
+    "fieldtype": "asset"
+  },
+  "article_url": {
+    "id": "",
+    "url": "https://www.nerdwallet.com/article/finance/how-to-make-money",
+    "linktype": "url",
+    "fieldtype": "multilink",
+    "cached_url": "https://www.nerdwallet.com/article/finance/how-to-make-money"
+  },
+  "article_headline": "How to make money",
+  "article_desccription": "In tempus odio vel dui facilisis iaculis. Duis sem libero, fermentum pharetra posuere et, facilisis vitae sapien. Etiam arcu dolor, consequat id tincidunt in, laoreet nec odio. Nullam accumsan pretium tempus. Proin ut venenatis ante. Sed ullamcorper ipsum vel diam malesuada suscipit. Donec vel augue vitae dolor mollis rhoncus. Phasellus ornare tellus "
+}

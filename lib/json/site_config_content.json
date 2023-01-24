@@ -1,0 +1,29 @@
+{
+  "_uid": "12371732-c0a4-43ec-a69f-6bbe7432d2ad",
+  "component": "site config",
+  "header_nav": [
+    {
+      "Link": {
+        "id": "",
+        "url": "",
+        "linktype": "story",
+        "fieldtype": "multilink",
+        "cached_url": ""
+      },
+      "_uid": "7871bb30-cf2a-4c2b-9a17-6accbe4d7a53",
+      "Label": "",
+      "component": "Contact"
+    }
+  ],
+  "header_logo": {
+    "id": 6820382,
+    "alt": "",
+    "name": "",
+    "focus": "",
+    "title": "",
+    "filename": "https://a.storyblok.com/f/190468/820x878/a460c25aa2/cookies.png",
+    "copyright": "",
+    "fieldtype": "asset",
+    "is_external_url": false
+  }
+}

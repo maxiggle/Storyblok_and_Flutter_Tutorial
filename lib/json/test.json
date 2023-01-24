@@ -1,0 +1,29 @@
+{
+  "stories": [
+    {
+      "name": "Portfolio Home",
+      "created_at": "2023-01-07T21:21:29.240Z",
+      "published_at": "2023-01-08T08:30:41.410Z",
+      "id": 243739779,
+      "uuid": "e155738e-0b80-4a07-9c2e-38077b4126fd",
+      "content": null,
+      "slug": "portfolio-home",
+      "full_slug": "portfolio-home",
+      "sort_by_date": null,
+      "position": 0,
+      "tag_list": [],
+      "is_startpage": false,
+      "parent_id": null,
+      "meta_data": null,
+      "group_id": "1612b770-6470-4609-8106-21612c682253",
+      "first_published_at": "2023-01-08T08:30:41.410Z",
+      "release_id": null,
+      "lang": "default",
+      "path": null,
+      "alternates": [],
+      "default_full_slug": null,
+      "translated_slugs": null
+    }
+  ],
+  "cv": 1673167874
+}
