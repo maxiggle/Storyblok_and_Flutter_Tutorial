@@ -1,20 +1,20 @@
 import 'dart:developer';
-
 import 'package:flutterstorybloktutorial/api_response.dart';
 import 'package:flutterstorybloktutorial/models.dart';
 import 'package:http/http.dart' as http;
 
 class ApiService {
-  Storyblok storyblok = Storyblok(stories: []);
+  // Story story = Story(stories: []);
 
-  Future<Storyblok?> getData() async {
+  Future<Story?> getData() async {
     try {
-      var url = Uri.parse(ApiResponse.baseUrl);
+      var url = Uri.parse(ApiResponse.api);
       var response = await http.get(url);
+      log('api response :${response.body}');
       if (response.statusCode == 200) {
-        final responseData = Storyblok.fromRawJson(response.body);
-        log('$responseData');
-        storyblok = responseData;
+        final responseData = Story.fromRawJson(response.body);
+        log('hi, $responseData');
+        // story = responseData;
       }
     } catch (e) {
       log(e.toString());
